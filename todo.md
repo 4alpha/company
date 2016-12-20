@@ -1,5 +1,7 @@
-#1. Company Website
-#2. Employee Verification / Blacklist
-#3. Salary slips / Salary Account through ICICI bank / Credit cards
-#4. Employee Identity cards
-#5. Company Tshirts / Bags
+1. Company Website
+2. New Laptops
+3. Company profile update on upwork
+4. Employee Verification / Blacklist
+5. Salary slips / Salary Account through ICICI bank / Credit cards
+6. Employee Identity cards
+7. Company Tshirts / Bags / Bottles
